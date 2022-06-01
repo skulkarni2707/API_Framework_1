@@ -1,0 +1,6 @@
+{
+  "geturl" : "https://jsonplaceholder.typicode.com/posts/1",
+  "posturl" : "https://jsonplaceholder.typicode.com/posts",
+  "puturl" : "https://jsonplaceholder.typicode.com/posts/1",
+  "deleteurl" : "https://jsonplaceholder.typicode.com/posts/1"
+}
